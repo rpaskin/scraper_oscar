@@ -1,6 +1,6 @@
 # Scraper-Oscar
 
-Este repositório é um fork do [original](https://github.com/juditecypreste/scraper_oscar) criado pela ["Judite Cypreste"](https://github.com/juditecypreste).
+Este repositório é um fork do [original](https://github.com/juditecypreste/scraper_oscar) criado pela [Judite Cypreste](https://github.com/juditecypreste).
 
 Este foi o código utilizado por trás do especial ["O Oscar deles"](https://entretenimento.uol.com.br/reportagens-especiais/apos-91-edicoes-o-oscar-ainda-e-um-clube-do-bolinha/index.htm#o-oscar-deles), publicado no Portal UOL.
 
