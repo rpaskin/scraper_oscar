@@ -2,14 +2,7 @@
 
 Este repositório é um fork do [original](https://github.com/juditecypreste/scraper_oscar) criado pela [Judite Cypreste](https://github.com/juditecypreste).
 
-Este foi o código utilizado por trás do especial ["O Oscar deles"](https://entretenimento.uol.com.br/reportagens-especiais/apos-91-edicoes-o-oscar-ainda-e-um-clube-do-bolinha/index.htm#o-oscar-deles), publicado no Portal UOL.
+ele foi o código utilizado por trás do especial ["O Oscar deles"](https://entretenimento.uol.com.br/reportagens-especiais/apos-91-edicoes-o-oscar-ainda-e-um-clube-do-bolinha/index.htm#o-oscar-deles), publicado no Portal UOL.
 
-## Metodologia
+Após o fork, ele foi alterado pelo Prof. Ronnie Paskin e vários notebooks adicionados para ilustrar os exemplos para a Trilha "Coleta, Analytics e Transformação de Dados" do projeto [TIC em Trilhas](https://instituto.ecoa.puc-rio.br/tic-em-trilhas/).
 
-Esse simples código, que utiliza apenas uma biblioteca (Pandas) realiza o scraper de páginas diversas do Wikipédia referentes a algumas categorias da premiação do Oscar. O Pandas é realmente útil para raspagem de tabelas, o que dispensa outras bibliotecas e otimiza o seu tempo, já que é possível analisar dados também com a mesma biblioteca. 
-
-O código está todo comentado como se fosse uma aula, e a ideia é tornar o processo mais simples possível para aprendizado de quem está começando a programar. 
-
-## Biblioteca utilizada
-
-Apenas Pandas 🐼: https://pandas.pydata.org/
